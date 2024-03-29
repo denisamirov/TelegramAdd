@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "input": "^1.0.1",
+    "tdl": "^7.4.1",
+    "telegram": "^2.20.2"
+  },
+  "name": "clientlistener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "presets": [
+    "@babel/preset-env"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3",
+    "@babel/node": "^7.23.9",
+    "@babel/preset-env": "^7.24.3"
+  }
+}
